@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\views\\plants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:views\\plants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\models\\plantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:models\\plantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\views\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:views\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\models\\plantimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:models\\plantimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\repository\\efplantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:repository\\efplantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\ltw\\websiteplant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CB03531-4247-4741-915B-2BBFC3AFA2E5}|WebsitePlant.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Controllers\\PlantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlantsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Controllers\\PlantsController.cs",
+              "RelativeToolTip": "Controllers\\PlantsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:42:05.711Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Models\\Plant.cs",
+              "RelativeDocumentMoniker": "Models\\Plant.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Models\\Plant.cs",
+              "RelativeToolTip": "Models\\Plant.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:15:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlantImage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Models\\PlantImage.cs",
+              "RelativeDocumentMoniker": "Models\\PlantImage.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Models\\PlantImage.cs",
+              "RelativeToolTip": "Models\\PlantImage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:30:44.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Views\\Plants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Plants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Views\\Plants\\Index.cshtml",
+              "RelativeToolTip": "Views\\Plants\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T04:46:25.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Models\\PlantDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\PlantDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Models\\PlantDbContext.cs",
+              "RelativeToolTip": "Models\\PlantDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:18:52.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Views\\Plants\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Plants\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Views\\Plants\\Create.cshtml",
+              "RelativeToolTip": "Views\\Plants\\Create.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T04:45:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EFPlantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Repository\\EFPlantRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EFPlantRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Repository\\EFPlantRepository.cs",
+              "RelativeToolTip": "Repository\\EFPlantRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:13:16.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:49:17.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T08:48:49.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LTW\\WebsitePlant\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T07:53:31.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

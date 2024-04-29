@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WebsitePlant.Models.Plant>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CommonName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OtherNames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ScientificName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Family)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlantPartUsed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlantUse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CommonName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OtherNames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ScientificName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Family)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlantPartUsed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlantUse)
+            </td>
+            <td>
+                <img src="@Html.DisplayFor(modelItem => item.ImageUrl)" />
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PlantId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PlantId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PlantId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
